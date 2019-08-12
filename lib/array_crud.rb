@@ -2,7 +2,7 @@ def create_an_empty_array
   [ ]
 end
 
-def family
+def create_an_array
   ["Bogo","Diana","Rada","Alex"]
 end
 
